@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "weaviate-agents": "^1.1.0",
+    "weaviate-client": "^3.11.0"
+  }
+}
