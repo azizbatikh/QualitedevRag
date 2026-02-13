@@ -16,6 +16,7 @@ ENV/
 # Base de données
 *.sql.bak
 backup.sql
+insert_files_hex.sql
 
 # Docker
 .docker/
